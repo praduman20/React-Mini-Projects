@@ -1,3 +1,30 @@
 [submodule "Expense-Tracker-React-mini-project-1"]
 	path = Expense-Tracker-React-mini-project-1
 	url = https://github.com/praduman20/Expense-Tracker-React-mini-project-1
+[submodule "Calculator-React-mini-project-2"]
+	path = Calculator-React-mini-project-2
+	url = https://github.com/praduman20/Calculator-React-mini-project-2
+[submodule "Grocery-hub-React-mini-project-3"]
+	path = Grocery-hub-React-mini-project-3
+	url = https://github.com/praduman20/Grocery-hub-React-mini-project-3
+[submodule "Review-Slider-React-mini-project-4"]
+	path = Review-Slider-React-mini-project-4
+	url = https://github.com/praduman20/Review-Slider-React-mini-project-4
+[submodule "Light-Dark-mode-React-mini-project-5"]
+	path = Light-Dark-mode-React-mini-project-5
+	url = https://github.com/praduman20/Light-Dark-mode-React-mini-project-5
+[submodule "Unsplash-Clone-React-mini-project-6"]
+	path = Unsplash-Clone-React-mini-project-6
+	url = https://github.com/praduman20/Unsplash-Clone-React-mini-project-6
+[submodule "MultiStep-form-React-mini-project-7-with-MUI"]
+	path = MultiStep-form-React-mini-project-7-with-MUI
+	url = https://github.com/praduman20/MultiStep-form-React-mini-project-7-with-MUI
+[submodule "React-Router-App-React-mini-project-8"]
+	path = React-Router-App-React-mini-project-8
+	url = https://github.com/praduman20/React-Router-App-React-mini-project-8
+[submodule "CocktailDB-React-mini-project-9"]
+	path = CocktailDB-React-mini-project-9
+	url = https://github.com/praduman20/CocktailDB-React-mini-project-9
+[submodule "ShoppingCart-React-mini-project-10-with-RTK"]
+	path = ShoppingCart-React-mini-project-10-with-RTK
+	url = https://github.com/praduman20/ShoppingCart-React-mini-project-10-with-RTK
